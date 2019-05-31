@@ -1,10 +1,10 @@
 {
   "sitename": "Welcome to careers at JSP",
-  "sitedescription": "Your future is here",
+  "sitedescription": "Your future starts here",
   "siteicon": "/images/uploads/jsp-logo-b-w.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [
     {
       "name": "Menu Link 1",
